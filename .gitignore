@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.idea/
+.vscode/
+
+# Never commit the actual library payload or built sticks
+zim/
+apps/
+*.zim
+*.zim.aria2
+*.zim.meta4
